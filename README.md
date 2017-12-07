@@ -9,3 +9,18 @@ search.js
 
 similiraty.js
 두 문장의 유사도를 측정합니다.
+
+getKeyString.html
+여러 문장으로 이루어진 글을 입력하면 핵심 문장을 뽑아줍니다.
+
+
+
+
+##Thanks to
+TextRank - http://bab2min.tistory.com/552
+
+Sørensen–Dice - https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
+
+Jaccard - https://en.wikipedia.org/wiki/Jaccard_index
+
+Translate - https://translate.google.co.kr/
