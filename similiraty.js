@@ -32,7 +32,7 @@ function getSim(str1, str2){
     return strarr_and.length / strarr_or.length;
   }
   function finalResult(){
-    return (sorensen() + jaccard())/2*10;
+    return (sorensen() + jaccard())/2;
   }
   return (finalResult());
 }
