@@ -16,7 +16,7 @@ getKeyString.html
 
 
 
-##Thanks to
+## Thanks to
 TextRank - http://bab2min.tistory.com/552
 
 Sørensen–Dice - https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
