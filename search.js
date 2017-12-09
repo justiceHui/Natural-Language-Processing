@@ -42,4 +42,4 @@ function sumSearch(str, arr){
   finalSearchText="";
 }
 
-sumSearch(, searchText);
+sumSearch(명령 내용, searchText);
