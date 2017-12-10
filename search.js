@@ -38,7 +38,7 @@ function sumSearch(str, arr){
   splitstr(str);
   getIdx(searchText);
   makeSearchText();
-  return ("http://www.google.co.kr/search?site=&source=hp&ei=pZqBWPiyBcqD8wXNy6fYCA&q="+finalSearchText);
+  console.log("http://www.google.co.kr/search?site=&source=hp&ei=pZqBWPiyBcqD8wXNy6fYCA&q="+finalSearchText);
   finalSearchText="";
 }
 
